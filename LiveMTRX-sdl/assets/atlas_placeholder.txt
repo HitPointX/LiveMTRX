@@ -1,0 +1,5 @@
+PLACEHOLDER: put your glyph atlas PNG here at assets/atlas.png
+Recommended glyph sets: ASCII, Katakana, Greek, box-drawing characters
+Font suggestions: SF Mono, Menlo (monospace)
+
+Atlas layout: grid, fixed cell size (e.g. 16x16). Map each glyph to an index in sim.
